@@ -1,0 +1,1 @@
+59 * * * * cd ~/Users/salty/PhpstormProjects/EngagementLabsTest & php EngagementLabMain.php --pageid=cocacola

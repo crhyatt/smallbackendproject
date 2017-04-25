@@ -1,0 +1,9 @@
+{
+  "name": "EngagementLabTest",
+  "description": "facebook api composer requirement file for the EngagementLab project",
+  "minimum-stability": "dev",
+  "license": "Apache-2.0",
+  "require": {
+    "facebook/graph-sdk": "~5.0"
+  }
+}
